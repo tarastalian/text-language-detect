@@ -12,7 +12,7 @@ This is a fork of [Text_LanguageDetect](http://pear.php.net/package/Text_Languag
 Dependencies:
 -------------
 
-    PHP Version: PHP 5.3 or newer
+    PHP Version: PHP 5.3 or newer, PHP 7
     PHP Extension: pcre
     PHP Extension: mbstring (optional)
 
